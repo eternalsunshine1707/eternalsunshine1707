@@ -3,10 +3,23 @@
 I'm **Sravani**, a Seasoned Data Engineer with four years of hands-on experience crafting robust data solutions and optimizing complex data ecosystems!
 
 - I’m currently working on my portfolio website. Stay tuned for updates!
+<br>
+<div align="center">
+<!-- GitHub Visitors Button -->
+<a href="https://github.com/eternalsunshine1707" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=eternalsunshine1707&label=VISITORS&color=brightgreen&style=for-the-badge" alt="GitHub Visitors" />
+</a>
 
-[![VISITORS](https://komarev.com/ghpvc/?username=eternalsunshine1707&label=VISITORS&color=green)](https://github.com/eternalsunshine1707)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LINKEDIN)](https://www.linkedin.com/in/sravaniofficial/)
-[![GMAIL](https://img.shields.io/badge/Email-red?style=flat&logo=GMAIL&logoColor=white)](mailto:sravanistar99@gmail.com)
+<!-- LinkedIn Button -->
+<a href="https://www.linkedin.com/in/sravaniofficial/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<!-- Gmail Button -->
+<a href="mailto:sravanistar99@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</div>
 
 ## About Me 👩‍💻
 I'm currently a **Computer Science grad student** at The George Washington University, set to complete my Master's in **May 2025**. With a strong foundation in **data engineering** and **cloud computing**, I'm actively exploring **full-time data engineer roles** to start after graduation.
