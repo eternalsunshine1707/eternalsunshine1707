@@ -40,7 +40,7 @@ When I'm not wrangling data, you might find me:
 - 🎨 Splashing colors on canvas
 - 🍳 Experimenting in the kitchen, where my algorithms are measured in pinches and dashes
 - 🎧 Tuning into spiritual podcasts, finding Zen in the chaos of code
-- 📖 Currently reading: *The Autobiography of a Yogi* by Paramahansa Yogananda, searching for the ultimate algorithm of existence
+- 📖 Currently reading: ***The Autobiography of a Yogi*** by Paramahansa Yogananda, searching for the ultimate algorithm of existence
 
 These diverse interests keep my creative neurons firing and my soul in balance, making me not just a data wizard but a life explorer too! 🌟
 
