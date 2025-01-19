@@ -1,6 +1,8 @@
-# Hello Hello! 👋
+# Hello Hello! 
 
 I'm **Sravani**, a Seasoned Data Engineer with four years of hands-on experience crafting robust data solutions and optimizing complex data ecosystems!
+
+- I’m currently working on my portfolio website. Stay tuned for updates!
 
 ## About Me 👩‍💻
 I'm currently a **Computer Science grad student** at The George Washington University, set to complete my Master's in **May 2025**. With a strong foundation in **data engineering** and **cloud computing**, I'm actively exploring **full-time data engineer roles** to start after graduation.
@@ -33,4 +35,4 @@ I'm always excited to collaborate, learn, and create some data-driven magic toge
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sravaniofficial/)
 
-- I’m currently working on my portfolio website!
+
