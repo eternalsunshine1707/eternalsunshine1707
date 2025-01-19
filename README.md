@@ -48,7 +48,6 @@ These diverse interests keep my creative neurons firing and my soul in balance, 
 - **AWS Certified Cloud Practitioner**
 
 ## Let's Connect 🌐  
-___
 I'm always excited to collaborate, learn, and create some data-driven magic together. Who knows? We might just change the world... one query at a time. 😉
 
 
