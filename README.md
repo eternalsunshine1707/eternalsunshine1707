@@ -5,8 +5,8 @@ I'm **Sravani**, a Seasoned Data Engineer with four years of hands-on experience
 - I’m currently working on my portfolio website. Stay tuned for updates!
 
 [![VISITORS](https://komarev.com/ghpvc/?username=eternalsunshine1707&label=VISITORS&color=green)](https://github.com/eternalsunshine1707)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sravaniofficial/)
-[![GMAIL](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:sravanistar99@gmail.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LINKEDIN)](https://www.linkedin.com/in/sravaniofficial/)
+[![GMAIL](https://img.shields.io/badge/Email-red?style=flat&logo=GMAIL&logoColor=white)](mailto:sravanistar99@gmail.com)
 
 ## About Me 👩‍💻
 I'm currently a **Computer Science grad student** at The George Washington University, set to complete my Master's in **May 2025**. With a strong foundation in **data engineering** and **cloud computing**, I'm actively exploring **full-time data engineer roles** to start after graduation.
