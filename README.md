@@ -5,9 +5,9 @@ I'm **Sravani**, a Seasoned **Data Engineer with four years of hands-on experien
 - I’m currently working on my portfolio website. Stay tuned for updates!
 <br>
 <div align="center">
-<!-- GitHub Visitors Button -->
+<!-- GitHub Profile Views Button -->
 <a href="https://github.com/eternalsunshine1707" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=eternalsunshine1707&label=VISITORS&color=brightgreen&style=for-the-badge" alt="GitHub Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=eternalsunshine1707&label=PROFILE%20VIEWS&color=green&style=for-the-badge" alt="Profile Views" />
 </a>
 
 <!-- LinkedIn Button -->
