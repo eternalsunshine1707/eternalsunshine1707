@@ -7,7 +7,7 @@ I'm **Sravani**, a Seasoned **Data Engineer with four years of hands-on experien
 <div align="center">
 <!-- GitHub Profile Views Button -->
 <a href="https://github.com/eternalsunshine1707" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=eternalsunshine1707&label=PROFILE%20VIEWS&color=green&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=eternalsunshine1707&label=PROFILE%20VIEWS&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </a>
 
 <!-- LinkedIn Button -->
