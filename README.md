@@ -1,4 +1,4 @@
-# Hello Hello!!
+# Hello Hello!
 
 I'm **Sravani**, a Seasoned **Data Engineer with four years of hands-on experience** crafting robust data solutions and optimizing complex data ecosystems.
 
