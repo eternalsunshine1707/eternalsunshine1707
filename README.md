@@ -21,7 +21,7 @@
 I'm a data engineer and analyst based in Virginia. I build data pipelines, write a lot of SQL and Python, and care deeply about getting data right - not just moving it from point A to point B, but making sure it's clean, reliable, and actually useful to the people who need it.
 <br>
 
-## WHAT I DO!
+### WHAT I DO!
 
 I spent five years at DXC Technology building ETL pipelines on AWS - Glue, Lambda, Step Functions, S3, Redshift, the whole stack. I optimized legacy SQL into PySpark jobs, built serverless ingestion pipelines that cut infrastructure costs by $7,500/month, and implemented data quality frameworks with Great Expectations and dbt. Most of my work lived in Databricks, processing a million-plus records a day through Bronze/Silver/Gold layers.
 
@@ -30,12 +30,12 @@ After that, I came to the US for my Master's in Computer Science at George Washi
 Right now I'm working as a Data Analyst, building dashboards, automating reports, and supporting A/B testing analysis.
 <br>
 
-## WHAT I'M LOOKING FOR!
+### WHAT I'M LOOKING FOR!
 
 I'm actively looking for Data Engineer and Data Analyst roles. I'm on F-1 OPT and will need visa sponsorship down the line. Open to remote, hybrid, or on-site - anywhere in the US.
 <br>
 
-## TOOLS I WORK WITH!
+### TOOLS I WORK WITH!
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,aws,postgres,mysql,mongodb,docker,git,jenkins,linux,github&theme=light" />
@@ -57,7 +57,11 @@ I'm actively looking for Data Engineer and Data Analyst roles. I'm on F-1 OPT an
 </p>
 <br>
 
-## BEYOND WORK
+### CERTIFICATIONS
+AWS Data Engineer Associate
+<br>
+
+### BEYOND WORK
 
 When I'm not writing queries or debugging pipelines, I paint, cook (no recipes - I measure in pinches), and listen to podcasts. Currently reading The Autobiography of a Yogi by Paramahansa Yogananda.
 
