@@ -12,7 +12,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=eternalsunshine1707&style=for-the-badge&color=444444&label=PROFILE+VIEWS)](https://github.com/eternalsunshine1707)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravaniofficial/)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E64A19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eternalsunshine1707.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-E64A19?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eternalsunshine1707.github.io/Portfolio/)
 
 </div>
 
