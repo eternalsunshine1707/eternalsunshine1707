@@ -23,7 +23,7 @@ I'm a data engineer and analyst based in Virginia. I build data pipelines, write
 
 ### <ins>WHAT I DO!</ins>
 
-I spent five years at DXC Technology building ETL pipelines on AWS - Glue, Lambda, Step Functions, S3, Redshift, the whole stack. I optimized legacy SQL into PySpark jobs, built serverless ingestion pipelines that cut infrastructure costs by $7,500/month, and implemented data quality frameworks with Great Expectations and dbt. Most of my work lived in Databricks, processing a million-plus records a day through Bronze/Silver/Gold layers.
+I spent 5 years at DXC Technology building ETL pipelines on AWS - Glue, Lambda, Step Functions, S3, Redshift, the whole stack. I optimized legacy SQL into PySpark jobs, built serverless ingestion pipelines that cut infrastructure costs by $7,500/month, and implemented data quality frameworks with Great Expectations and dbt. Most of my work lived in Databricks, processing a million-plus records a day through Bronze/Silver/Gold layers.
 
 After that, I came to the US for my Master's in Computer Science at George Washington University (graduated May 2025). During grad school, I worked as a Data Analyst - built Power BI and Tableau dashboards for academic advising, analyzed retention data with SQL and R, and helped identify at-risk students. Seeing data directly improve student outcomes made the work feel different from anything I'd done before.
 
